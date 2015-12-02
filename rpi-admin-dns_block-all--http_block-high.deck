@@ -1,0 +1,24 @@
+- options:
+    collector: httpo://tggp6jv5aaul54kk.onion
+    help: 0
+    logfile: null
+    no-default-reporter: 0
+    parallelism: null
+    pcapfile: null
+    reportfile: null
+    resume: 0
+    subargs: [-f, /home/admin/vsf-decks/vsf-urls-high.txt, -T, /home/admin/vsf-decks/dns-server-ve.txt]
+    test_file: blocking/dns_consistency
+    testdeck: null
+- options:
+    collector: httpo://tggp6jv5aaul54kk.onion
+    help: 0
+    logfile: null
+    no-default-reporter: 0
+    parallelism: null
+    pcapfile: null
+    reportfile: null
+    resume: 0
+    subargs: [-f, /home/admin/vsf-decks/vsf-urls-all.txt]
+    test_file: blocking/http_requests
+    testdeck: null
