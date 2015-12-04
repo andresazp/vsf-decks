@@ -1,3 +1,4 @@
+http://veedoresciudadanos.org.ve
 http://www.voluntadpopular.com
 http://Aporrea.org
 http://www.aporrea.org
@@ -333,14 +334,10 @@ http://login.live.com
 https://login.live.com
 http://Luz.edu.ve
 http://Marca.com
-http://Mercadolibre.com
-http://Mercadolibre.com.ve
-http://www.mercadolibre.com.ve
 http://Meridiano.com.ve
 http://www.meridiano.com.ve
 http://Minci.gob.ve
 http://Movilnet.com.ve
-http://Movistar.com.ve
 http://Noticias24carabobo.com
 http://Noticiasaldiayalahora.co
 http://www.periodismodepaz.org
@@ -378,3 +375,4 @@ http://elgrandatero.com
 http://tubululu.com
 http://www.videohipico.info/blog/
 http://lahipodromodigital.com
+http://opinionynoticias.com

@@ -1,9 +1,9 @@
-http://www.voluntadpopular.com
-http://Aporrea.org
+http://veedoresciudadanos.org.ve
+http://aporrea.org
 http://www.aporrea.org
-http://Bing.com
+http://bing.com
 http://www.bing.com
-http://Blogger.com
+http://blogger.com
 http://www.blogger.com
 http://blogspot.com
 http://www.cidh.org
@@ -292,3 +292,4 @@ http://alekboyd.blogspot.co.uk
 http://vdebate.blogspot.com
 http://www.minuto30.com
 http://www.noticias.com
+http://opinionynoticias.com
